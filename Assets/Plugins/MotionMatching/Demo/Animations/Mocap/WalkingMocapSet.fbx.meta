@@ -1,0 +1,2652 @@
+fileFormatVersion: 2
+guid: d9b2ee02710f70746b6aa2acbe11a1f7
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: AnimatedRoot
+  - first:
+      1: 100002
+    second: Chest
+  - first:
+      1: 100004
+    second: Foot.L
+  - first:
+      1: 100006
+    second: Foot.R
+  - first:
+      1: 100008
+    second: Hand.L
+  - first:
+      1: 100010
+    second: Hand.R
+  - first:
+      1: 100012
+    second: Head
+  - first:
+      1: 100014
+    second: Hips
+  - first:
+      1: 100016
+    second: IndexDistal.L
+  - first:
+      1: 100018
+    second: IndexDistal.R
+  - first:
+      1: 100020
+    second: IndexIntermediate.L
+  - first:
+      1: 100022
+    second: IndexIntermediate.R
+  - first:
+      1: 100024
+    second: IndexPalm.L
+  - first:
+      1: 100026
+    second: IndexPalm.R
+  - first:
+      1: 100028
+    second: IndexProximal.L
+  - first:
+      1: 100030
+    second: IndexProximal.R
+  - first:
+      1: 100032
+    second: LowerArm.L
+  - first:
+      1: 100034
+    second: LowerArm.R
+  - first:
+      1: 100036
+    second: LowerLeg.L
+  - first:
+      1: 100038
+    second: LowerLeg.R
+  - first:
+      1: 100040
+    second: MiddleDistal.L
+  - first:
+      1: 100042
+    second: MiddleDistal.R
+  - first:
+      1: 100044
+    second: MiddleIntermediate.L
+  - first:
+      1: 100046
+    second: MiddleIntermediate.R
+  - first:
+      1: 100048
+    second: MiddlePalm.L
+  - first:
+      1: 100050
+    second: MiddlePalm.R
+  - first:
+      1: 100052
+    second: MiddleProximal.L
+  - first:
+      1: 100054
+    second: MiddleProximal.R
+  - first:
+      1: 100056
+    second: Neck
+  - first:
+      1: 100058
+    second: PinkyDistal.L
+  - first:
+      1: 100060
+    second: PinkyDistal.R
+  - first:
+      1: 100062
+    second: PinkyIntermediate.L
+  - first:
+      1: 100064
+    second: PinkyIntermediate.R
+  - first:
+      1: 100066
+    second: PinkyPalm.L
+  - first:
+      1: 100068
+    second: PinkyPalm.R
+  - first:
+      1: 100070
+    second: PinkyProximal.L
+  - first:
+      1: 100072
+    second: PinkyProximal.R
+  - first:
+      1: 100074
+    second: RingDistal.L
+  - first:
+      1: 100076
+    second: RingDistal.R
+  - first:
+      1: 100078
+    second: RingIntermediate.L
+  - first:
+      1: 100080
+    second: RingIntermediate.R
+  - first:
+      1: 100082
+    second: RingPalm.L
+  - first:
+      1: 100084
+    second: RingPalm.R
+  - first:
+      1: 100086
+    second: RingProximal.L
+  - first:
+      1: 100088
+    second: RingProximal.R
+  - first:
+      1: 100090
+    second: Shoulder.L
+  - first:
+      1: 100092
+    second: Shoulder.R
+  - first:
+      1: 100094
+    second: Spine
+  - first:
+      1: 100096
+    second: ThumbDistal.L
+  - first:
+      1: 100098
+    second: ThumbDistal.R
+  - first:
+      1: 100100
+    second: ThumbIntermediate.L
+  - first:
+      1: 100102
+    second: ThumbIntermediate.R
+  - first:
+      1: 100104
+    second: ThumbProximal.L
+  - first:
+      1: 100106
+    second: ThumbProximal.R
+  - first:
+      1: 100108
+    second: Toe.L
+  - first:
+      1: 100110
+    second: Toe.R
+  - first:
+      1: 100112
+    second: UpperArm.L
+  - first:
+      1: 100114
+    second: UpperArm.R
+  - first:
+      1: 100116
+    second: UpperChest
+  - first:
+      1: 100118
+    second: UpperLeg.L
+  - first:
+      1: 100120
+    second: UpperLeg.R
+  - first:
+      1: 100122
+    second: //RootNode
+  - first:
+      4: 400000
+    second: AnimatedRoot
+  - first:
+      4: 400002
+    second: Chest
+  - first:
+      4: 400004
+    second: Foot.L
+  - first:
+      4: 400006
+    second: Foot.R
+  - first:
+      4: 400008
+    second: Hand.L
+  - first:
+      4: 400010
+    second: Hand.R
+  - first:
+      4: 400012
+    second: Head
+  - first:
+      4: 400014
+    second: Hips
+  - first:
+      4: 400016
+    second: IndexDistal.L
+  - first:
+      4: 400018
+    second: IndexDistal.R
+  - first:
+      4: 400020
+    second: IndexIntermediate.L
+  - first:
+      4: 400022
+    second: IndexIntermediate.R
+  - first:
+      4: 400024
+    second: IndexPalm.L
+  - first:
+      4: 400026
+    second: IndexPalm.R
+  - first:
+      4: 400028
+    second: IndexProximal.L
+  - first:
+      4: 400030
+    second: IndexProximal.R
+  - first:
+      4: 400032
+    second: LowerArm.L
+  - first:
+      4: 400034
+    second: LowerArm.R
+  - first:
+      4: 400036
+    second: LowerLeg.L
+  - first:
+      4: 400038
+    second: LowerLeg.R
+  - first:
+      4: 400040
+    second: MiddleDistal.L
+  - first:
+      4: 400042
+    second: MiddleDistal.R
+  - first:
+      4: 400044
+    second: MiddleIntermediate.L
+  - first:
+      4: 400046
+    second: MiddleIntermediate.R
+  - first:
+      4: 400048
+    second: MiddlePalm.L
+  - first:
+      4: 400050
+    second: MiddlePalm.R
+  - first:
+      4: 400052
+    second: MiddleProximal.L
+  - first:
+      4: 400054
+    second: MiddleProximal.R
+  - first:
+      4: 400056
+    second: Neck
+  - first:
+      4: 400058
+    second: PinkyDistal.L
+  - first:
+      4: 400060
+    second: PinkyDistal.R
+  - first:
+      4: 400062
+    second: PinkyIntermediate.L
+  - first:
+      4: 400064
+    second: PinkyIntermediate.R
+  - first:
+      4: 400066
+    second: PinkyPalm.L
+  - first:
+      4: 400068
+    second: PinkyPalm.R
+  - first:
+      4: 400070
+    second: PinkyProximal.L
+  - first:
+      4: 400072
+    second: PinkyProximal.R
+  - first:
+      4: 400074
+    second: RingDistal.L
+  - first:
+      4: 400076
+    second: RingDistal.R
+  - first:
+      4: 400078
+    second: RingIntermediate.L
+  - first:
+      4: 400080
+    second: RingIntermediate.R
+  - first:
+      4: 400082
+    second: RingPalm.L
+  - first:
+      4: 400084
+    second: RingPalm.R
+  - first:
+      4: 400086
+    second: RingProximal.L
+  - first:
+      4: 400088
+    second: RingProximal.R
+  - first:
+      4: 400090
+    second: Shoulder.L
+  - first:
+      4: 400092
+    second: Shoulder.R
+  - first:
+      4: 400094
+    second: Spine
+  - first:
+      4: 400096
+    second: ThumbDistal.L
+  - first:
+      4: 400098
+    second: ThumbDistal.R
+  - first:
+      4: 400100
+    second: ThumbIntermediate.L
+  - first:
+      4: 400102
+    second: ThumbIntermediate.R
+  - first:
+      4: 400104
+    second: ThumbProximal.L
+  - first:
+      4: 400106
+    second: ThumbProximal.R
+  - first:
+      4: 400108
+    second: Toe.L
+  - first:
+      4: 400110
+    second: Toe.R
+  - first:
+      4: 400112
+    second: UpperArm.L
+  - first:
+      4: 400114
+    second: UpperArm.R
+  - first:
+      4: 400116
+    second: UpperChest
+  - first:
+      4: 400118
+    second: UpperLeg.L
+  - first:
+      4: 400120
+    second: UpperLeg.R
+  - first:
+      4: 400122
+    second: //RootNode
+  - first:
+      74: 7400000
+    second: 01_IdleAndFlair_Neutral_02
+  - first:
+      74: 7400002
+    second: 01_IdleLoop
+  - first:
+      74: 7400004
+    second: 02_TIP_Neutral_04
+  - first:
+      74: 7400006
+    second: 03_WalkStep_Neutral_02
+  - first:
+      74: 7400008
+    second: 08_WalkStartStop_Neutral_03
+  - first:
+      74: 7400010
+    second: 10_WalkCounterStart_Neutral_03
+  - first:
+      74: 7400012
+    second: 11_WalkPlant_Neutral_05_MIRROR
+  - first:
+      74: 7400014
+    second: 12_WalkCounterPlant_Neutral_04
+  - first:
+      74: 7400016
+    second: 13_WalkContinue_Neutral_03
+  - first:
+      74: 7400018
+    second: 24_WalkStraight_Neutral_01
+  - first:
+      74: 7400020
+    second: 26_WalkSnake_Neutral_03
+  - first:
+      74: 7400022
+    second: 28_29_WalkCircleSpiral_Neutral_02
+  - first:
+      74: 7400024
+    second: 11_WalkPlant_Neutral_05
+  - first:
+      74: 7400026
+    second: 01_IdleAndFlair_Neutral_02_MIRROR
+  - first:
+      74: 7400028
+    second: 01_IdleLoop_MIRROR
+  - first:
+      74: 7400030
+    second: 02_TIP_Neutral_04_MIRROR
+  - first:
+      74: 7400032
+    second: 03_WalkStep_Neutral_02_MIRROR
+  - first:
+      74: 7400034
+    second: 08_WalkStartStop_Neutral_03_MIRROR
+  - first:
+      74: 7400036
+    second: 10_WalkCounterStart_Neutral_03_MIRROR
+  - first:
+      74: 7400038
+    second: 12_WalkCounterPlant_Neutral_04_MIRROR
+  - first:
+      74: 7400040
+    second: 13_WalkContinue_Neutral_03_MIRROR
+  - first:
+      74: 7400042
+    second: AnimUprisingRig|24_WalkStraight_Neutral_01_FINAL_MIRROR
+  - first:
+      74: 7400044
+    second: 26_WalkSnake_Neutral_03_MIRROR
+  - first:
+      74: 7400046
+    second: 28_29_WalkCircleSpiral_Neutral_02_MIRROR
+  - first:
+      74: 7400048
+    second: 01_IdleFlair_DustHands
+  - first:
+      74: 7400050
+    second: 01_IdleFlair_DustHands_MIRROR
+  - first:
+      74: 7400052
+    second: 01_IdleFlair_RollShoulderRight
+  - first:
+      74: 7400054
+    second: 01_IdleFlair_RollShoulderRight_MIRROR
+  - first:
+      74: 7400056
+    second: 01_IdleFlair_RollShoulderLeft
+  - first:
+      74: 7400058
+    second: 01_IdleFlair_RollShoulderRight_MIRROR
+  - first:
+      74: 7400060
+    second: 01_IdleFlair_StretchArms
+  - first:
+      74: 7400062
+    second: 01_IdleFlair_StretchArms_MIRROR
+  - first:
+      74: 7400064
+    second: 01_IdleFlair_ShuffleFeet
+  - first:
+      74: 7400066
+    second: 01_IdleFlair_ShuffleFeet_MIRROR
+  - first:
+      74: 7400068
+    second: 01_IdleFlair_TapToes
+  - first:
+      74: 7400070
+    second: 01_IdleFlair_TapToes_MIRROR
+  - first:
+      74: 7400072
+    second: 01_IdleFlair_LookRight
+  - first:
+      74: 7400074
+    second: 01_IdleFlair_LookRight_MIRROR
+  - first:
+      74: 7400076
+    second: 01_IdleFlair_LookLeft
+  - first:
+      74: 7400078
+    second: 01_IdleFlair_LookLeft_MIRROR
+  - first:
+      74: 7400080
+    second: 01_IdleFlair_FollowBird
+  - first:
+      74: 7400082
+    second: 01_IdleFlair_FollowBird_MIRROR
+  - first:
+      74: 7400084
+    second: 01_IdleFlair_CmonLetsGo
+  - first:
+      74: 7400086
+    second: 01_IdleFlair_CmonLetsGo_MIRROR
+  - first:
+      74: 7400088
+    second: 01_IdleFlair_StretchLegs
+  - first:
+      74: 7400090
+    second: 01_IdleFlair_StretchLegs_MIRROR
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'MiddlePalm.R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'RingPalm.R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'PinkyPalm.R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MiddlePalm.L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'RingPalm.L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'PinkyPalm.L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 01_IdleAndFlair_Neutral_02
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 4431
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleLoop
+      takeName: AnimUprisingRig|01_IdleLoop_Final
+      internalID: 0
+      firstFrame: 14
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 02_TIP_Neutral_04
+      takeName: AnimUprisingRig|02_TIP_Neutral_04_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 1063
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 03_WalkStep_Neutral_02
+      takeName: AnimUprisingRig|03_WalkStep_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 1884
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 08_WalkStartStop_Neutral_03
+      takeName: AnimUprisingRig|08_WalkStartStop_Neutral_03_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 2074
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 10_WalkCounterStart_Neutral_03
+      takeName: AnimUprisingRig|10_WalkCounterStart_Neutral_03_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 1013
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 11_WalkPlant_Neutral_05
+      takeName: AnimUprisingRig|11_WalkPlant_Neutral_05_FINAL
+      internalID: 0
+      firstFrame: 3
+      lastFrame: 1079
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 12_WalkCounterPlant_Neutral_04
+      takeName: AnimUprisingRig|12_WalkCounterPlant_Neutral_04_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 1000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 13_WalkContinue_Neutral_03
+      takeName: AnimUprisingRig|13_WalkContinue_Neutral_03_FINAL
+      internalID: 0
+      firstFrame: 3
+      lastFrame: 1019
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 24_WalkStraight_Neutral_01
+      takeName: AnimUprisingRig|24_WalkStraight_Neutral_01_FINAL
+      internalID: 0
+      firstFrame: 114
+      lastFrame: 236
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 26_WalkSnake_Neutral_03
+      takeName: AnimUprisingRig|26_WalkSnake_Neutral_03_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 2615
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 28_29_WalkCircleSpiral_Neutral_02
+      takeName: AnimUprisingRig|28_29_WalkCircleSpiral_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 2168
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleAndFlair_Neutral_02_MIRROR
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 4431
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleLoop_MIRROR
+      takeName: AnimUprisingRig|01_IdleLoop_Final
+      internalID: 0
+      firstFrame: 14
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 02_TIP_Neutral_04_MIRROR
+      takeName: AnimUprisingRig|02_TIP_Neutral_04_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 1063
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 03_WalkStep_Neutral_02_MIRROR
+      takeName: AnimUprisingRig|03_WalkStep_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 1884
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 08_WalkStartStop_Neutral_03_MIRROR
+      takeName: AnimUprisingRig|08_WalkStartStop_Neutral_03_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 2074
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 10_WalkCounterStart_Neutral_03_MIRROR
+      takeName: AnimUprisingRig|10_WalkCounterStart_Neutral_03_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 1013
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 11_WalkPlant_Neutral_05_MIRROR
+      takeName: AnimUprisingRig|11_WalkPlant_Neutral_05_FINAL
+      internalID: 0
+      firstFrame: 3
+      lastFrame: 1079
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 12_WalkCounterPlant_Neutral_04_MIRROR
+      takeName: AnimUprisingRig|12_WalkCounterPlant_Neutral_04_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 1000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 13_WalkContinue_Neutral_03_MIRROR
+      takeName: AnimUprisingRig|13_WalkContinue_Neutral_03_FINAL
+      internalID: 0
+      firstFrame: 3
+      lastFrame: 1019
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 26_WalkSnake_Neutral_03_MIRROR
+      takeName: AnimUprisingRig|26_WalkSnake_Neutral_03_FINAL
+      internalID: 0
+      firstFrame: 3
+      lastFrame: 2615
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 28_29_WalkCircleSpiral_Neutral_02_MIRROR
+      takeName: AnimUprisingRig|28_29_WalkCircleSpiral_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 2168
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_DustHands
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 730
+      lastFrame: 1001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_DustHands_MIRROR
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 730
+      lastFrame: 1001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_RollShoulderRight
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 1116
+      lastFrame: 1283
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_RollShoulderRight_MIRROR
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 1116
+      lastFrame: 1283
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_RollShoulderLeft
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 1376
+      lastFrame: 1553
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_RollShoulderRight_MIRROR
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 1376
+      lastFrame: 1553
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_StretchArms
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 1616
+      lastFrame: 1887
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_StretchArms_MIRROR
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 1616
+      lastFrame: 1887
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_ShuffleFeet
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2044
+      lastFrame: 2231
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_ShuffleFeet_MIRROR
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2044
+      lastFrame: 2231
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_TapToes
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2336
+      lastFrame: 2637
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_TapToes_MIRROR
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2336
+      lastFrame: 2637
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_LookRight
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2648
+      lastFrame: 2784
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_LookRight_MIRROR
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2648
+      lastFrame: 2784
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_LookLeft
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2805
+      lastFrame: 2899
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_LookLeft_MIRROR
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 2805
+      lastFrame: 2899
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_FollowBird
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 3034
+      lastFrame: 3305
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_FollowBird_MIRROR
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 3034
+      lastFrame: 3305
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_CmonLetsGo
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 3378
+      lastFrame: 3680
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_CmonLetsGo_MIRROR
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 3378
+      lastFrame: 3680
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_StretchLegs
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 4150
+      lastFrame: 4379
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 01_IdleFlair_StretchLegs_MIRROR
+      takeName: AnimUprisingRig|01_IdleAndFlair_Neutral_02_FINAL
+      internalID: 0
+      firstFrame: 4150
+      lastFrame: 4379
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 0
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperLeg.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperLeg.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerLeg.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerLeg.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot.L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot.R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder.L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder.R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperArm.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperArm.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerArm.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerArm.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand.L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand.R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Toe.L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Toe.R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ThumbProximal.L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ThumbIntermediate.L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ThumbDistal.L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MiddleProximal.L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MiddleIntermediate.L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MiddleDistal.L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndexProximal.L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndexIntermediate.L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndexDistal.L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PinkyProximal.L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PinkyIntermediate.L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PinkyDistal.L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RingProximal.L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RingIntermediate.L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RingDistal.L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ThumbProximal.R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ThumbIntermediate.R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ThumbDistal.R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MiddleProximal.R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MiddleIntermediate.R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MiddleDistal.R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndexProximal.R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndexIntermediate.R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndexDistal.R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PinkyProximal.R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PinkyIntermediate.R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PinkyDistal.R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RingProximal.R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RingIntermediate.R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RingDistal.R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperChest
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: WalkingMocapSet(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Hips
+      parentName: WalkingMocapSet(Clone)
+      position: {x: -0.000000009536743, y: 3.0267983e-11, z: 0.0098607605}
+      rotation: {x: 0.7071023, y: -0, z: -0, w: 0.70711124}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Hips
+      position: {x: -0, y: 0.00036974013, z: 5.4001247e-15}
+      rotation: {x: -0.021967372, y: -0.00000011918057, z: 0.0000000026187135, w: 0.9997587}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Chest
+      parentName: Spine
+      position: {x: 3.7969626e-16, y: 0.0018281586, z: 4.6568402e-11}
+      rotation: {x: -0.030278658, y: 0.00000011915467, z: 0.0000000036094956, w: 0.9995415}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: UpperChest
+      parentName: Chest
+      position: {x: -1.4095451e-16, y: 0.0017399179, z: 3.7252902e-11}
+      rotation: {x: 0.0522349, y: -0.000000119046554, z: -0.0000000062268866, w: 0.9986349}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: Neck
+      parentName: UpperChest
+      position: {x: 3.6944184e-16, y: 0.0016899824, z: 9.825243e-12}
+      rotation: {x: 0.10981814, y: -2.1115815e-14, z: -0.000000026182677, w: 0.9939517}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999995}
+    - name: Head
+      parentName: Neck
+      position: {x: -1.3322676e-15, y: 0.0009112367, z: 4.191179e-11}
+      rotation: {x: -0.08075285, y: -0.0000000015633508, z: 0.00000001937963, w: 0.99673414}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000004}
+    - name: Shoulder.R
+      parentName: UpperChest
+      position: {x: 0.00031635186, y: 0.0010678137, z: 0.000000002262876}
+      rotation: {x: 0.00000014189487, y: 0.00000027957364, z: -0.7071068, w: 0.7071067}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: UpperArm.R
+      parentName: Shoulder.R
+      position: {x: 0.0000000013071966, y: 0.0015156338, z: -2.365379e-12}
+      rotation: {x: -1.4210863e-14, y: -4.9738e-14, z: -4.9960867e-16, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: LowerArm.R
+      parentName: UpperArm.R
+      position: {x: 0.0000000013071966, y: 0.0030348888, z: -4.6394178e-12}
+      rotation: {x: 0.00014324066, y: 0.00014346841, z: 0.000000020625073, w: 1}
+      scale: {x: 0.9999996, y: 0.9999997, z: 0.9999997}
+    - name: Hand.R
+      parentName: LowerArm.R
+      position: {x: 0.0000000017396788, y: 0.0025004963, z: -3.055902e-12}
+      rotation: {x: -0.00014324064, y: -0.0001434684, z: -0.00000002062507, w: 1}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.9999999}
+    - name: IndexPalm.R
+      parentName: Hand.R
+      position: {x: -0.00005578156, y: 0.00037852346, z: 0.00016609041}
+      rotation: {x: 0.04573985, y: 0.65172464, z: 0.036686294, w: 0.7561859}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: IndexProximal.R
+      parentName: IndexPalm.R
+      position: {x: 3.7718564e-10, y: 0.00057266554, z: -0.0000000012523378}
+      rotation: {x: -0.014554579, y: 0.12108727, z: -0.01712504, w: 0.9923874}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: IndexIntermediate.R
+      parentName: IndexProximal.R
+      position: {x: -2.7939677e-11, y: 0.0003705199, z: 0.0000000015849946}
+      rotation: {x: 0.00008306264, y: 0.014174453, z: -0.00411773, w: 0.9998911}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: IndexDistal.R
+      parentName: IndexIntermediate.R
+      position: {x: -2.0954757e-11, y: 0.000232089, z: -0.000000001466542}
+      rotation: {x: 0.0035266322, y: 0.036702417, z: -0.019232715, w: 0.9991349}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ThumbProximal.R
+      parentName: Hand.R
+      position: {x: 0.0001446319, y: 0.00030663132, z: 0.00018406952}
+      rotation: {x: 0.13609454, y: 0.8741872, z: 0.4364001, w: 0.16379884}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: ThumbIntermediate.R
+      parentName: ThumbProximal.R
+      position: {x: 5.820766e-11, y: 0.00034334447, z: -1.2107193e-10}
+      rotation: {x: 0.015278247, y: 0.07685652, z: -0.035392117, w: 0.99629676}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: ThumbDistal.R
+      parentName: ThumbIntermediate.R
+      position: {x: -6.298069e-10, y: 0.00027509383, z: 3.72529e-10}
+      rotation: {x: -0.011674421, y: 0.003349333, z: -0.042583168, w: 0.99901915}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: MiddlePalm.R
+      parentName: Hand.R
+      position: {x: -0.0000762247, y: 0.00039507626, z: 0.000026926415}
+      rotation: {x: 0.007633834, y: 0.6666323, z: 0.014843047, w: 0.7451998}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: MiddleProximal.R
+      parentName: MiddlePalm.R
+      position: {x: 9.313225e-11, y: 0.0005608307, z: 0.0000000014854594}
+      rotation: {x: -0.00977786, y: 0.07358601, z: 0.02535087, w: 0.99691874}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: MiddleIntermediate.R
+      parentName: MiddleProximal.R
+      position: {x: 7.4505804e-11, y: 0.00040753666, z: 0.0000000011030351}
+      rotation: {x: 0.010733519, y: -0.008407687, z: -0.012945781, w: 0.9998232}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MiddleDistal.R
+      parentName: MiddleIntermediate.R
+      position: {x: -9.3132255e-12, y: 0.00026476788, z: 5.4511473e-10}
+      rotation: {x: -0.013553684, y: -0.0006752561, z: -0.014569099, w: 0.99980175}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: RingPalm.R
+      parentName: Hand.R
+      position: {x: -0.00007083639, y: 0.0003748983, z: -0.00009899282}
+      rotation: {x: -0.048333857, y: 0.6836394, z: -0.022140594, w: 0.727881}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: RingProximal.R
+      parentName: RingPalm.R
+      position: {x: -0, y: 0.0005740487, z: -0.0000000014202669}
+      rotation: {x: 0.004862115, y: 0.018480957, z: 0.09265085, w: 0.99551535}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: RingIntermediate.R
+      parentName: RingProximal.R
+      position: {x: 3.7252902e-11, y: 0.00036861072, z: 3.1897798e-10}
+      rotation: {x: 0.0045677247, y: -0.0006103052, z: -0.016614344, w: 0.9998514}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: RingDistal.R
+      parentName: RingIntermediate.R
+      position: {x: 3.7252902e-11, y: 0.00026155918, z: 6.8801453e-10}
+      rotation: {x: -0.006781516, y: -0.011817567, z: -0.022919834, w: 0.99964446}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: PinkyPalm.R
+      parentName: Hand.R
+      position: {x: -0.000052352934, y: 0.00033727402, z: -0.00022007353}
+      rotation: {x: -0.07469798, y: 0.71949154, z: -0.08287894, w: 0.6854803}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: PinkyProximal.R
+      parentName: PinkyPalm.R
+      position: {x: 7.4505804e-11, y: 0.0006152408, z: -0.00000000173226}
+      rotation: {x: -0.024447396, y: -0.05373147, z: 0.15581197, w: 0.9860213}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: PinkyIntermediate.R
+      parentName: PinkyProximal.R
+      position: {x: -1.4901161e-10, y: 0.00022927829, z: -0.0000000022770836}
+      rotation: {x: -0.003204222, y: -0.0008962123, z: -0.011744186, w: 0.99992555}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: PinkyDistal.R
+      parentName: PinkyIntermediate.R
+      position: {x: -2.2351741e-10, y: 0.0001858226, z: 3.8649886e-10}
+      rotation: {x: 0.004376314, y: -0.010221234, z: -0.0058638663, w: 0.999921}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Shoulder.L
+      parentName: UpperChest
+      position: {x: -0.00031635186, y: 0.0010678137, z: 0.0000000024137243}
+      rotation: {x: 0.0000003104823, y: -0.00000011098622, z: 0.7071068, w: 0.7071067}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: UpperArm.L
+      parentName: Shoulder.L
+      position: {x: -0.0000000013071966, y: 0.0015156338, z: -2.3660629e-12}
+      rotation: {x: -7.193854e-21, y: 2.1316285e-14, z: -4.996033e-16, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: LowerArm.L
+      parentName: UpperArm.L
+      position: {x: -0.0000000013071967, y: 0.0030348888, z: -4.6405544e-12}
+      rotation: {x: 0.00014324066, y: -0.00014346841, z: -0.000000020625073, w: 1}
+      scale: {x: 0.9999996, y: 0.9999997, z: 0.9999997}
+    - name: Hand.L
+      parentName: LowerArm.L
+      position: {x: -0.0000000017396807, y: 0.0025004963, z: 1.00408215e-11}
+      rotation: {x: -0.00014324066, y: 0.00014346841, z: 0.000000020625068, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: IndexPalm.L
+      parentName: Hand.L
+      position: {x: 0.00005578156, y: 0.00037852346, z: 0.00016609041}
+      rotation: {x: 0.04573985, y: -0.65172464, z: -0.036686294, w: 0.7561859}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: IndexProximal.L
+      parentName: IndexPalm.L
+      position: {x: -9.778887e-11, y: 0.0005726661, z: 7.3050616e-10}
+      rotation: {x: -0.014553944, y: -0.12108736, z: 0.01712705, w: 0.9923874}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: IndexIntermediate.L
+      parentName: IndexProximal.L
+      position: {x: 6.286427e-11, y: 0.00037052034, z: 0.0000000010017538}
+      rotation: {x: 0.039613917, y: -0.01384073, z: 0.0026385, w: 0.9991157}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: IndexDistal.L
+      parentName: IndexIntermediate.L
+      position: {x: -6.0535965e-11, y: 0.00023208908, z: 0.0000000011557131}
+      rotation: {x: 0.115669206, y: -0.034311302, z: 0.02323143, w: 0.9924232}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: ThumbProximal.L
+      parentName: Hand.L
+      position: {x: -0.0001446319, y: 0.00030663132, z: 0.00018406952}
+      rotation: {x: -0.13609466, y: 0.8741868, z: 0.43640068, w: -0.16379878}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: ThumbIntermediate.L
+      parentName: ThumbProximal.L
+      position: {x: -3.4982803e-10, y: 0.00034334377, z: 2.5145708e-10}
+      rotation: {x: 0.028466279, y: -0.06742658, z: 0.019930085, w: 0.9971189}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: ThumbDistal.L
+      parentName: ThumbIntermediate.L
+      position: {x: -2.4796462e-10, y: 0.0002750933, z: 5.9604643e-10}
+      rotation: {x: 0.012023294, y: -0.0023383931, z: 0.04265066, w: 0.999015}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+    - name: MiddlePalm.L
+      parentName: Hand.L
+      position: {x: 0.0000762247, y: 0.00039507687, z: 0.00002692632}
+      rotation: {x: 0.007633909, y: -0.6666319, z: -0.014843038, w: 0.7452002}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: MiddleProximal.L
+      parentName: MiddlePalm.L
+      position: {x: 3.7252902e-11, y: 0.00056083075, z: 3.72529e-10}
+      rotation: {x: -0.0097761955, y: -0.07358609, z: -0.025350355, w: 0.9969188}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: MiddleIntermediate.L
+      parentName: MiddleProximal.L
+      position: {x: 3.7252902e-11, y: 0.00040753683, z: -1.4901161e-10}
+      rotation: {x: 0.037416793, y: 0.0098251365, z: 0.003757612, w: 0.99924445}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: MiddleDistal.L
+      parentName: MiddleIntermediate.L
+      position: {x: -2.7939677e-11, y: 0.00026476785, z: -7.600465e-10}
+      rotation: {x: 0.059554435, y: 0.0017382569, z: 0.014480783, w: 0.9981185}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1}
+    - name: RingPalm.L
+      parentName: Hand.L
+      position: {x: 0.00007083639, y: 0.0003748989, z: -0.00009899301}
+      rotation: {x: -0.048333474, y: -0.68363917, z: 0.022138752, w: 0.7278813}
+      scale: {x: 0.99999976, y: 0.99999994, z: 1}
+    - name: RingProximal.L
+      parentName: RingPalm.L
+      position: {x: -0, y: 0.0005740478, z: -8.9406965e-10}
+      rotation: {x: 0.0048628966, y: -0.018480955, z: -0.092650585, w: 0.99551535}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: RingIntermediate.L
+      parentName: RingProximal.L
+      position: {x: -1.11758706e-10, y: 0.00036861055, z: 5.424954e-10}
+      rotation: {x: 0.038849182, y: 0.0017866471, z: 0.0085371, w: 0.9992071}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RingDistal.L
+      parentName: RingIntermediate.L
+      position: {x: 7.4505804e-11, y: 0.00026155906, z: -0.0000000013201498}
+      rotation: {x: 0.15965402, y: 0.015466712, z: 0.020633828, w: 0.9868362}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: PinkyPalm.L
+      parentName: Hand.L
+      position: {x: 0.000052352934, y: 0.00033727402, z: -0.00022007356}
+      rotation: {x: -0.07469802, y: -0.71949154, z: 0.082878985, w: 0.6854803}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: PinkyProximal.L
+      parentName: PinkyPalm.L
+      position: {x: -1.4901161e-10, y: 0.0006152402, z: -8.288771e-10}
+      rotation: {x: -0.024449684, y: 0.053732924, z: -0.15581217, w: 0.98602116}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: PinkyIntermediate.L
+      parentName: PinkyProximal.L
+      position: {x: -0, y: 0.00022927765, z: -5.0524246e-10}
+      rotation: {x: 0.039970517, y: 0.0014619823, z: 0.010375228, w: 0.999146}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: PinkyDistal.L
+      parentName: PinkyIntermediate.L
+      position: {x: 7.4505804e-11, y: 0.0001858222, z: -4.6100465e-10}
+      rotation: {x: 0.08753135, y: 0.010673558, z: 0.004993361, w: 0.9960921}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: UpperLeg.R
+      parentName: Hips
+      position: {x: 0.0009064172, y: 0.000006174445, z: -0.0000000041522665}
+      rotation: {x: 0.00000003389496, y: -0.0239964, z: 0.99971205, w: 8.135912e-10}
+      scale: {x: 1, y: 1.0000002, z: 1.0000279}
+    - name: LowerLeg.R
+      parentName: UpperLeg.R
+      position: {x: -5.3191822e-11, y: 0.004588358, z: -5.0055408e-11}
+      rotation: {x: -0.000000001195304, y: 0.99985933, z: -0.016774245, w: -0.00000013315675}
+      scale: {x: 1, y: 1.0000004, z: 0.99999976}
+    - name: Foot.R
+      parentName: LowerLeg.R
+      position: {x: 7.627164e-11, y: 0.004318265, z: 1.864413e-11}
+      rotation: {x: -0.5507753, y: -0.000000109384146, z: 0.00000007245679, w: 0.83465356}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Toe.R
+      parentName: Foot.R
+      position: {x: -7.487948e-12, y: 0.0016747019, z: -4.9991584e-11}
+      rotation: {x: -0.24049023, y: 0.00000054713564, z: -0.00000007725266, w: 0.97065157}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: UpperLeg.L
+      parentName: Hips
+      position: {x: -0.00090640783, y: 0.000006174445, z: -0.000000004152265}
+      rotation: {x: -0.00000011679558, y: -0.024025178, z: 0.9997114, w: -0.0000000028068443}
+      scale: {x: 1, y: 1.0000002, z: 1.000028}
+    - name: LowerLeg.L
+      parentName: UpperLeg.L
+      position: {x: 1.643013e-10, y: 0.004588358, z: -1.1657661e-11}
+      rotation: {x: 0.0000000033291754, y: 0.99985445, z: -0.01706375, w: 0.00000013312064}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Foot.L
+      parentName: LowerLeg.L
+      position: {x: 7.622279e-11, y: 0.004318265, z: 8.38024e-11}
+      rotation: {x: -0.5510413, y: 0.00000010951746, z: -0.00000007205227, w: 0.83447796}
+      scale: {x: 1, y: 0.9999995, z: 0.99999934}
+    - name: Toe.L
+      parentName: Foot.L
+      position: {x: 8.324938e-11, y: 0.0016747022, z: -9.020212e-11}
+      rotation: {x: -0.24048986, y: -0.0000005482875, z: 0.00000006798898, w: 0.9706516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AnimatedRoot
+      parentName: WalkingMocapSet(Clone)
+      position: {x: -0.000000009536743, y: 3.0267983e-11, z: 0}
+      rotation: {x: 0.70676833, y: 0.021875884, z: 0.021875884, w: 0.70676833}
+      scale: {x: 0.99999976, y: 1, z: 0.99999976}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: AnimatedRoot
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: ClipVersion=6,
+  assetBundleName: 
+  assetBundleVariant: 
